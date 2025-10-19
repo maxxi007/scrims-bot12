@@ -1,5 +1,5 @@
 // pinger.js
-const URL = "https://your-app-name.onrender.com"; // 👈 change this to your Render web URL
+const URL = "https://scrims-bot12.onrender.com"; // 👈 change this to your Render web URL
 
 async function ping() {
   try {
